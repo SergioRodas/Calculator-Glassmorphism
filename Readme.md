@@ -1,4 +1,8 @@
-  #   Calculator 
+Calculator-Glassmorphism
    * Html
    * CSS
-   * JavaScript# Calculator-Glassmorphism
+   * JavaScript#
+![Image text](https://github.com/SergioRodas/Calculator-Glassmorphism/blob/main/Calculator.gif)
+
+
+   
